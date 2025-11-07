@@ -1,8 +1,3 @@
 {
-    "zokuzoku.enabled": true,
-    "commentTranslate.source": "Google",
-    "commentTranslate.targetLanguage": "id",
-    "zokuzoku.useGameFont": false,
-    "commentTranslate.maxTranslationLength": 30000,
-    "commentTranslate.browse.enabled": true
+    "zokuzoku.enabled": true
 }
