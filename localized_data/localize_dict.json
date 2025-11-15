@@ -4687,5 +4687,16 @@
     "Friend0018": "Berhenti mengikuti",
     "Friend0043": "Diikuti",
     "Friend0061": "Jumlah pengikut sudah mencapai batas",
-    "Friend0062": "Kamu sudah mencapai batas ikuti"
+    "Friend0062": "Kamu sudah mencapai batas ikuti",
+    "Friend619001": "Hapus sekaligus",
+    "Friend619002": "Setelah dihapus, tidak bisa dikembalikan",
+    "Friend619003": "Perubahan dibatalkan dan tidak akan tersimpan, kamu yakin?",
+    "Friend619004": "Pilih pelatih yang akan dibatalkan",
+    "Friend619005": "Max. batalkan pelatih",
+    "Friend619006": "Jumlah faktor",
+    "Friend619008": "Pelatih sudah tidak aktif",
+    "Friend619010": "Tidak ada yang bisa dibatalkan",
+    "Friend619011": "Pelatih belum dipilih",
+    "Friend619012": "Tidak bisa melebihi jumlah maksimum",
+    "Friend619007": "{0}Item"
 }
