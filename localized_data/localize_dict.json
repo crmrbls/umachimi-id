@@ -1019,11 +1019,10 @@
   "Friend0021": "$(nb)Kartu Support",
   "Friend0025": "<size=26>$(plural {0} '$ Jam' '$ hrs') lalu</size>",
   "Friend0026": "<size=26>$(plural {0} '$ Hari' '$ Hari') lalu</size>",
-  "Friend0031": "Removed from following",
+  "Friend0031": "Dihapus dari mengikuti",
   "Friend0037": "Hapus pengikut",
-  "Friend0039": "ID Search",
-  "Friend0043": "Followed",
-  "Friend0044": "Follow",
+  "Friend0039": "Cari ID",
+  "Friend0044": "Ikuti",
   "Friend0045": ">1 tahun lalu",
   "Friend0046": "Minggu ini",
   "Friend0047": "Tidak ada rekomendasi",
@@ -4683,5 +4682,10 @@
     "SingleModeScenarioOnsen194018": "{0} tempat &\n{1}\nDiperoleh",
     "SingleModeScenarioOnsen585009": "Ga Dapet",
     "SingleModeScenarioOnsen585011": "Mata Air Fav.",
-    "Friend0002": "ga punya fl"
+    "Friend0002": "Tidak ada pengikut",
+    "Friend0008": "Pending",
+    "Friend0018": "Berhenti mengikuti",
+    "Friend0043": "Diikuti",
+    "Friend0061": "Jumlah pengikut sudah mencapai batas",
+    "Friend0062": "Kamu sudah mencapai batas ikuti"
 }
